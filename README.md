@@ -1,5 +1,4 @@
-## Hi there 👋
-# 💫 About Me:
+#💫About Me:
 I create work that's deliberate, sharp, and built with intent, following an impact-driven approach.
 
 
