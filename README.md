@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sidmishrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidmishrx" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/siddharth mishra](https://www.linkedin.com/in/-siddharthmishra/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/-siddharthmishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/sidmishrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidmishrx" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/228001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="228001" height="30" width="40" /></a>
 </p>
