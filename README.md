@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Mishra</h1>
 <h3 align="center">I am a full-stack developer. I develop data-driven products following an impact driven approach</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth22git" alt="siddharth22git" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sidmishrx" target="blank"><img src="https://img.shields.io/twitter/follow/sidmishrx?logo=twitter&style=for-the-badge" alt="sidmishrx" /></a> </p>
 
 - 🔭 I’m currently working on [Uniqly](https://github.com/Siddharth22GIT/Uniqly)
@@ -29,5 +27,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth22git&" alt="siddharth22git" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Siddharth Mishra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Siddharth Mishra" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/siddharthmishra?status=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Siddharth Mishra" /></a></p><br><br>
 
