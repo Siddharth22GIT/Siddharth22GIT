@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sidmishrx" target="blank"><img src="https://img.shields.io/twitter/follow/sidmishrx?logo=twitter&style=for-the-badge" alt="sidmishrx" /></a> </p>
 
-- 🔭 I’m currently working on [Uniqly](https://github.com/Siddharth22GIT/Uniqly)
-
 - 👨‍💻 All of my projects are available at [https://devsidsportfolio.vercel.app/](https://devsidsportfolio.vercel.app/)
 
 - 📫 How to reach me **siddharthmishra10e@gmail.com**
