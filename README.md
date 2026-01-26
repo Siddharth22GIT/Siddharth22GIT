@@ -21,7 +21,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth22git&show_icons=true&locale=en&layout=compact" alt="siddharth22git" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=siddharth22git&show_icons=true&locale=en" alt="siddharth22git" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth22git&" alt="siddharth22git" />
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/siddharthmishra?status=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Siddharth Mishra" /></a></p><br><br>
