@@ -148,12 +148,16 @@ MERN + Socket.IO · OSRM road-accurate routing · Leaflet maps · JWT auth · da
 </td>
 <td valign="top" width="50%">
 
-**🔍 [Frisk](https://github.com/Siddharth22GIT) — Search & Discovery Tool**
+**🛡️ [Frisk](https://github.com/Siddharth22GIT) — AI Risk Manager for Payment Merchants**
 
-Fast, lightweight search tool built for developers · instant results · clean terminal-style UI
+3-module risk engine: Isolation Forest fraud detector · XGBoost return scorer · Claude API chargeback responder — all in one merchant dashboard with CSV/JSON ingestion, live transaction checker, PDF-ready evidence docs, and Docker Compose one-command deploy
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Risk Score](https://img.shields.io/badge/Risk_Score_0--100-FF7A00?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-FF7A00?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
