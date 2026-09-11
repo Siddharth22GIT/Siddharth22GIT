@@ -65,22 +65,30 @@ const sid = {
 
 <div align="center">
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&perline=8&theme=dark"/>
+
+<br/>
+
 **Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css&perline=8&theme=dark"/>
 
 <br/>
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,vercel,linux,vscode,postman&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,vercel,docker,linux,vscode,postman&perline=9&theme=dark"/>
 
 <br/>
 
 **ML / AI**
 
-<img src="https://skillicons.dev/icons?i=python,flask,opencv&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flask,opencv&perline=8&theme=dark"/>
 &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="46"/>
+&nbsp;
 <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat-square&logo=python&logoColor=white" height="46"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" height="46"/>
