@@ -48,8 +48,8 @@ const sid = {
   stack: ["Next.js", "React", "Node.js", "Express", "MongoDB",
   "TypeScript", "Python", "Flask", "FastAPI"],
   building: ["gotocodes"],
-  shipped: ["CandleCast AI", "Where's My Bus", "Unravel",
-  "Arth Sahayak", "Frisk AI"],
+  shipped: ["Gotocodes", "IP-Chat", "CandleCast AI", "Where's My Bus",
+  "Unravel", "Frisk AI"],
   learning: ["System Design", "CP", "DSA"],
   ask_me: ["Full Stack · ML · LLMs · DSA"]
 }
